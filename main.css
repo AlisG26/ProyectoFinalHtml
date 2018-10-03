@@ -1,0 +1,33 @@
+.Retos {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    font-size: 50pt;
+    position: relative;
+    vertical-align: super;
+    padding-top: 4%;
+}
+
+.Puntos {
+    border-top-right-radius: 5% 10%;
+    border-top-left-radius: 5% 10%;
+    border-bottom-right-radius: 5% 10%;
+    border-bottom-left-radius: 5% 10%;
+    background-color: #ffe100;
+    position: relative;
+    vertical-align: super;
+    left: 75%;
+    bottom: 45%;
+}
+
+.NumPuntos {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: Bold;
+    color: black;
+    font-size: 50pt;
+}
+
+.Star, .NumPuntos {
+
+}
