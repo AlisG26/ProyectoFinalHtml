@@ -21,13 +21,19 @@
     bottom: 45%;
 }
 
+.Star {
+    position: relative;
+    left: 7%;
+    padding-top: 10%;
+    bottom: 5px;
+}
+
 .NumPuntos {
     font-family: 'Titillium Web', sans-serif;
     font-weight: Bold;
     color: black;
     font-size: 50pt;
-}
-
-.Star, .NumPuntos {
-
+    position: relative;
+    left: 35%;
+    bottom: 90%;
 }
